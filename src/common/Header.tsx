@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header  >
         <Container className='bg-red-300  '>
-            Header
+            Header is here
         </Container>
     </header>
   )

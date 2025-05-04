@@ -42,6 +42,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 ==> created layout like layout file , header , footer and container component.
-==> installed shadcn Ui library and its components
+==> installed shadcn Ui library and its component
 
 
