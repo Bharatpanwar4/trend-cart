@@ -35,13 +35,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
-
-
 ###### Trend cart
-
 
 ==> created layout like layout file , header , footer and container component.
 ==> installed shadcn Ui library and its component
-
-
+==> created logo , header , sidebar menu for mobile , heafer list , fav icon , search bar icon and sign in btn
