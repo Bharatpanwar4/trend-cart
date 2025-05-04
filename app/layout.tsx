@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Layout from "@/src/common/Layout";
 
 
 
@@ -22,7 +23,11 @@ export default function RootLayout({
       <body
         className={` font-poppins  antialiased  bg-shop-light-pink`}
       >
+        <Layout>
         {children}
+
+        </Layout>
+
       </body>
     </html>
   );
