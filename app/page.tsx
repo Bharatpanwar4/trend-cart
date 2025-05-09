@@ -1,11 +1,7 @@
-import Container from "@/src/common/Container";
+import HomeScreen from "@/src/screen/Home";
 
 const Home = () => {
-  return (
-    <Container>
-      d
-    </Container>
-  );
+  return <HomeScreen />;
 };
 
 export default Home;

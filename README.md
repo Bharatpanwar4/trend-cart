@@ -40,3 +40,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ==> created layout like layout file , header , footer and container component.
 ==> installed shadcn Ui library and its component
 ==> created logo , header , sidebar menu for mobile , heafer list , fav icon , search bar icon and sign in btn
+
+## login
+
+==> installed clerkjs for auth
+==> ceted env and store the crendtials of clerk
+===> created middleware.ts
