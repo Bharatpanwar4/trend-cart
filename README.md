@@ -46,3 +46,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ==> installed clerkjs for auth
 ==> ceted env and store the crendtials of clerk
 ===> created middleware.ts
+
+## footer
+
+==> created footer component with social media , quick lins etc
