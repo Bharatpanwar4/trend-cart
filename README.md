@@ -50,3 +50,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## footer
 
 ==> created footer component with social media , quick lins etc
+
+## sanity
+
+==> login and created project at sanity
+==> install next-sanity and innitialised it with the project
+==> store the cred in .env of sanity
+==> created the (cleient folder) in app router and sanity which by default in app router
+==> inserted the outer page and rootlayout to client and created new layout at root
